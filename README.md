@@ -3,6 +3,7 @@ Workshop for students: basic Git usage on CLI and in VSCode and GitHub.
 
 
 
+
 ## Steps
 
 **First step**: click the "Fork" button in the top right corner of the repo, to create your own version of this repo. Then you can use the below check-list to complete the tasks.
@@ -27,7 +28,7 @@ Workshop for students: basic Git usage on CLI and in VSCode and GitHub.
        * Now press the **"Commits"** link below the green "<> Code"
          * Observe that your new commit is listed.
          * Click on the commit in the list to see the commit diff, the incremental changes did commit did.
-  - [ ] Change several files
+  - [x] Change several files
     1. Create a few new files with the `$ code <filename>` command.
     1. Repeat the steps from the previous task to create new commits, and observe how the staging area is changing, and new commits appear in the commit tree timeline.
 - [ ] Practice Git commands: command-line (CLI) commands
