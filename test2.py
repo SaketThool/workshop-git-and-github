@@ -1,0 +1,1 @@
+Iam the greatest man of the creation of the simpsons of stanlee comics 

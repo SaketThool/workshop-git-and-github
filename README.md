@@ -13,8 +13,8 @@ Workshop for students: basic Git usage on CLI and in VSCode and GitHub.
 - [x] Watch one of these lectures:
   * [CS50 Seminars 2023 - How To Use Git and GitHub](https://www.youtube.com/watch?v=cspx7YSvp5Q)
   * [CS50 An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
-- [ ] Practice Git commands: VSCode Source Control GUI
-  - [ ] Change one file
+- [x] Practice Git commands: VSCode Source Control GUI
+  - [x] Change one file
     1. In your VSCode, switch to the Source Control view in the left sidebar (Ctrl+Shift+G)
     1. In your VSCode, edit the `README.md` file e.g. add a new line or check off a completed task.
        * Observe that the `README.md` file is marked as "changed" in the Source Control view.
