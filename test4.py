@@ -1,0 +1,1 @@
+Makkan jaisan chickan hamra clear nahi hai vision, rupa ke chaddi ho gail khatam tabhi toh lungi mai hai ham.
